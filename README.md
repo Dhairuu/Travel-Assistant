@@ -1,2 +1,2 @@
 # Travel-Assistant
-A Travel Assistant Web application 
+A Travel Assistant Web Application 
